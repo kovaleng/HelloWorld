@@ -1,0 +1,14 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 364A-81B4
+
+ Directory of C:\My\JENKINS\JavaProject1
+
+18/04/2019  15:24    <DIR>          .
+18/04/2019  15:24    <DIR>          ..
+18/04/2019  15:24               675 Hello.class
+17/04/2019  15:22               157 Hello.java
+17/04/2019  21:56               482 index.html
+17/04/2019  21:56                 8 test1.txt
+18/04/2019  15:24                 0 test2.txt
+               5 File(s)          1.322 bytes
+               2 Dir(s)  68.535.422.976 bytes free
